@@ -4,15 +4,20 @@ body {
 }
 
 h2 {
-    color:red;
+    color:lightcoral;
     text-align: center;
     border: 5px solid purple;
+    cursor: pointer;
 }
 
 #h-login {
-    color:blue;
+    color:lightcyan;
 }
 
 p {
-    color:green;
+    color:white;
+}
+
+li {
+    list-style: none;
 }
