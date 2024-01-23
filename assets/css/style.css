@@ -4,14 +4,14 @@ body {
 }
 
 h2 {
-    color:lightcoral;
+    color: #CF6B0F;
     text-align: center;
-    border: 5px solid purple;
+    border: 5px solid rgba(0, 31, 35, 0.5);
     cursor: pointer;
 }
 
 #h-login {
-    color:lightcyan;
+    color: lightcyan;
 }
 
 p {
@@ -19,5 +19,11 @@ p {
 }
 
 li {
+    color: lightblue;
     list-style: none;
+    display: inline-block;
+}
+
+a {
+    color: #025D6A;
 }
